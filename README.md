@@ -89,9 +89,9 @@ La plataforma permite a investigadores, estudiantes y científicos analizar prop
 ## Clonar repositorio
 
 ```bash
-git clone https://github.com/usnistgov/jarvis.git
+git clone https://github.com/isairey/PlataformaDise-oMateriales-IA.git
 
-cd jarvis
+cd PlataformaDise-oMateriales-IA
 ```
 
 ## Instalar desde PyPI
@@ -141,7 +141,7 @@ print(dataset[0])
 # 📂 Estructura del Proyecto
 
 ```text
-JARVIS-Tools/
+PlataformaDise-oMateriales-IA/
 │
 ├── core/
 │   ├── estructuras atómicas
@@ -170,17 +170,7 @@ JARVIS-Tools/
 
 ---
 
-# 📚 Documentación Oficial
 
-Documentación completa:
-
-https://pages.nist.gov/jarvis/
-
-Repositorio de notebooks:
-
-https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
-
----
 
 # 🎯 Aplicaciones
 
