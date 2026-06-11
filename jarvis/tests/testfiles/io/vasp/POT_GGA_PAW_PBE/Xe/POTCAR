@@ -1,0 +1,25 @@
+  PAW_PBE Xe Fake POTCAR                 
+   0.00000000000000     
+ parameters from PSCTR are:
+   VRHFIN =Xe: s2p6
+   LEXCH  = PE
+   EATOM  =   0.0 eV,   31.5685 Ry
+
+   TITEL  = PAW_PBE Xe Fake POTCAR
+   LULTRA =        F    use ultrasoft PP ?
+   IUNSCR =        1    unscreen: 0-lin 1-nonlin 2-no
+   RPACOR =    0.000    partial core radius
+   POMASS =  0.0; ZVAL   =    0.000    mass and valenz
+   RCORE  =    0.00    outmost cutoff radius
+   RWIGS  =    0.00; RWIGS  =    0.0    wigner-seitz radius (au A)
+   ENMAX  =  0.0; ENMIN  =  0.0 eV
+   ICORE  =        2    local potential
+   LCOR   =        T    correct aug charges
+   LPAW   =        T    paw PP
+   EAUG   =  0.0
+   DEXC   =    0.000
+   RMAX   =    0.000    core radius for proj-oper
+   RAUG   =    0.000    factor for augmentation sphere
+   RDEP   =    0.000    radius for radial grids
+   RDEPT  =    0.000    core radius for aug-charge
+ 
