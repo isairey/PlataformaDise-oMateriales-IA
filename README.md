@@ -207,7 +207,7 @@ PlataformaDise-oMateriales-IA/
 
 
 
-## Isai Reyes Peña
+## Isai Reyes
 
 **Desarrollador de Software | Inteligencia Artificial | Ciencia de Datos | Desarrollo Full Stack**
 
