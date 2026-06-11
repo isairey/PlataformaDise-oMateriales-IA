@@ -205,7 +205,7 @@ PlataformaDise-oMateriales-IA/
 
 # 👨‍💻 Desarrollador
 
-<div align="center">
+
 
 ## Isai Reyes Peña
 
@@ -223,9 +223,8 @@ Especializado en:
 * Docker
 * Ciencia de Datos
 
-GitHub: https://github.com/isaireyes2003
+GitHub: https://github.com/isairey
 
-</div>
 
 ---
 
